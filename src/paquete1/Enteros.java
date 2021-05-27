@@ -5,6 +5,9 @@ package paquete1;
  * @version 1.0
  */
 
+// Comentario de prueba para el ejercicio, este será el cambio que
+// realizaré para volver a sincronizarlo todo.
+
 public class Enteros {
 
 	/**
